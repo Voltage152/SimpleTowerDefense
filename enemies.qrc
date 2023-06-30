@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Enemies/ordinaryenemy.png</file>
+        <file>Enemies/hackbuteer.png</file>
+        <file>Enemies/floatplane_1.png</file>
+        <file>Enemies/floatplane_2.png</file>
+        <file>Enemies/knight.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Units/melee_1.png</file>
+        <file>Units/range_1.png</file>
+        <file>Units/miner_1.png</file>
+        <file>Units/shield_1.png</file>
+        <file>Units/shield_2.png</file>
+        <file>Units/shield_3.png</file>
+        <file>Units/flywarrior_1.png</file>
+        <file>Units/flywarrior_2.png</file>
+        <file>Units/catapult_1.png</file>
+        <file>Units/aim.png</file>
+        <file>Units/catapult_1dizzy.png</file>
+        <file>Units/dizzy.png</file>
+    </qresource>
+</RCC>
